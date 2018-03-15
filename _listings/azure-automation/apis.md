@@ -13,8 +13,8 @@ tags:
 - Orchestration
 - Microsoft
 - Automation
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-14"
+modified: "2018-03-14"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/apis.yaml
 specificationVersion: "0.14"
 apis:

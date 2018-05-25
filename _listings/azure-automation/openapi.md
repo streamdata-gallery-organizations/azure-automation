@@ -19,7 +19,7 @@ paths:
       summary: Automation Account Update
       description: Update an automation account.
       operationId: AutomationAccount_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountname-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountname-patch
       parameters:
       - in: path
         name: automationAccountName
@@ -41,7 +41,7 @@ paths:
       summary: Automation Account Create Or Update
       description: Create or update automation account.
       operationId: AutomationAccount_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountname-put
       parameters:
       - in: path
         name: automationAccountName
@@ -64,7 +64,7 @@ paths:
       summary: Automation Account Delete
       description: Delete an automation account.
       operationId: AutomationAccount_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountname-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -81,7 +81,7 @@ paths:
       summary: Automation Account Get
       description: Get information about an Automation Account.
       operationId: AutomationAccount_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountname-get
       parameters:
       - in: path
         name: automationAccountName
@@ -99,7 +99,7 @@ paths:
       summary: Automation Account List By Resource Group
       description: Retrieve a list of accounts within a given resource group.
       operationId: AutomationAccount_ListByResourceGroup
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccounts-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccounts-get
       parameters:
       - in: query
         name: No Name
@@ -117,7 +117,7 @@ paths:
       summary: List Operations
       description: Lists all of the available Automation REST API operations.
       operationId: Operations_List
-      x-api-path-slug: providersmicrosoftautomationoperations-get
+      x-api-path-slug: providersmicrosoft-automationoperations-get
       parameters:
       - in: query
         name: No Name
@@ -132,7 +132,7 @@ paths:
       summary: Lists the Automation Accounts
       description: Retrieve a list of accounts within a given subscription.
       operationId: AutomationAccount_List
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftautomationautomationaccounts-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-automationautomationaccounts-get
       parameters:
       - in: query
         name: No Name
@@ -148,7 +148,7 @@ paths:
       summary: Statistics List By Automation Account
       description: Retrieve the statistics for the account.
       operationId: Statistics_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamestatistics-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamestatistics-get
       parameters:
       - in: query
         name: $filter
@@ -171,7 +171,7 @@ paths:
       summary: Usages List By Automation Account
       description: Retrieve the usage for the account id.
       operationId: Usages_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameusages-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameusages-get
       parameters:
       - in: path
         name: automationAccountName
@@ -191,7 +191,7 @@ paths:
       summary: Certificate Delete
       description: Delete the certificate.
       operationId: Certificate_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecertificatescertificatename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecertificatescertificatename-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -210,7 +210,7 @@ paths:
       summary: Certificate Get
       description: Retrieve the certificate identified by certificate name.
       operationId: Certificate_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecertificatescertificatename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecertificatescertificatename-get
       parameters:
       - in: path
         name: automationAccountName
@@ -229,7 +229,7 @@ paths:
       summary: Certificate Create Or Update
       description: Create a certificate.
       operationId: Certificate_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecertificatescertificatename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecertificatescertificatename-put
       parameters:
       - in: path
         name: automationAccountName
@@ -254,7 +254,7 @@ paths:
       summary: Certificate Update
       description: Update a certificate.
       operationId: Certificate_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecertificatescertificatename-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecertificatescertificatename-patch
       parameters:
       - in: path
         name: automationAccountName
@@ -279,7 +279,7 @@ paths:
       summary: Certificate List By Automation Account
       description: Retrieve a list of certificates.
       operationId: Certificate_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecertificates-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecertificates-get
       parameters:
       - in: path
         name: automationAccountName
@@ -299,7 +299,7 @@ paths:
       summary: Connection Delete
       description: Delete the connection.
       operationId: Connection_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectionsconnectionname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectionsconnectionname-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -318,7 +318,7 @@ paths:
       summary: Connection Get
       description: Retrieve the connection identified by connection name.
       operationId: Connection_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectionsconnectionname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectionsconnectionname-get
       parameters:
       - in: path
         name: automationAccountName
@@ -337,7 +337,7 @@ paths:
       summary: Connection Create Or Update
       description: Create or update a connection.
       operationId: Connection_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectionsconnectionname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectionsconnectionname-put
       parameters:
       - in: path
         name: automationAccountName
@@ -362,7 +362,7 @@ paths:
       summary: Connection Update
       description: Update a connection.
       operationId: Connection_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectionsconnectionname-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectionsconnectionname-patch
       parameters:
       - in: path
         name: automationAccountName
@@ -387,7 +387,7 @@ paths:
       summary: Connection List By Automation Account
       description: Retrieve a list of connections.
       operationId: Connection_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnections-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnections-get
       parameters:
       - in: path
         name: automationAccountName
@@ -407,7 +407,7 @@ paths:
       summary: Connection Type Delete
       description: Delete the connectiontype.
       operationId: ConnectionType_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -427,7 +427,7 @@ paths:
       summary: Connection Type Get
       description: Retrieve the connectiontype identified by connectiontype name.
       operationId: ConnectionType_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-get
       parameters:
       - in: path
         name: automationAccountName
@@ -447,7 +447,7 @@ paths:
       summary: Connection Type Create Or Update
       description: Create a connectiontype.
       operationId: ConnectionType_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-put
       parameters:
       - in: path
         name: automationAccountName
@@ -476,7 +476,7 @@ paths:
       summary: Connection Type List By Automation Account
       description: Retrieve a list of connectiontypes.
       operationId: ConnectionType_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectiontypes-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectiontypes-get
       parameters:
       - in: path
         name: automationAccountName
@@ -497,7 +497,7 @@ paths:
       summary: Credential Delete
       description: Delete the credential.
       operationId: Credential_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecredentialscredentialname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecredentialscredentialname-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -516,7 +516,7 @@ paths:
       summary: Credential Get
       description: Retrieve the credential identified by credential name.
       operationId: Credential_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecredentialscredentialname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecredentialscredentialname-get
       parameters:
       - in: path
         name: automationAccountName
@@ -535,7 +535,7 @@ paths:
       summary: Credential Create Or Update
       description: Create a credential.
       operationId: Credential_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecredentialscredentialname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecredentialscredentialname-put
       parameters:
       - in: path
         name: automationAccountName
@@ -560,7 +560,7 @@ paths:
       summary: Credential Update
       description: Update a credential.
       operationId: Credential_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecredentialscredentialname-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecredentialscredentialname-patch
       parameters:
       - in: path
         name: automationAccountName
@@ -585,7 +585,7 @@ paths:
       summary: Credential List By Automation Account
       description: Retrieve a list of credentials.
       operationId: Credential_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecredentials-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecredentials-get
       parameters:
       - in: path
         name: automationAccountName
@@ -605,7 +605,7 @@ paths:
       summary: Dsc Compilation Job Create
       description: Creates the Dsc compilation job of the configuration.
       operationId: DscCompilationJob_Create
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecompilationjobscompilationjobid-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecompilationjobscompilationjobid-put
       parameters:
       - in: path
         name: automationAccountName
@@ -633,7 +633,7 @@ paths:
       description: Retrieve the Dsc configuration compilation job identified by job
         id.
       operationId: DscCompilationJob_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecompilationjobscompilationjobid-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecompilationjobscompilationjobid-get
       parameters:
       - in: path
         name: automationAccountName
@@ -655,7 +655,7 @@ paths:
       summary: Dsc Compilation Job List By Automation Account
       description: Retrieve a list of dsc compilation jobs.
       operationId: DscCompilationJob_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecompilationjobs-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecompilationjobs-get
       parameters:
       - in: query
         name: $filter
@@ -680,7 +680,7 @@ paths:
       summary: Dsc Compilation Job Get Stream
       description: Retrieve the job stream identified by job stream id.
       operationId: DscCompilationJob_GetStream
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecompilationjobsjobidstreamsjobstreamid-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecompilationjobsjobidstreamsjobstreamid-get
       parameters:
       - in: path
         name: automationAccountName
@@ -707,7 +707,7 @@ paths:
       summary: Dsc Configuration Delete
       description: Delete the dsc configuration identified by configuration name.
       operationId: DscConfiguration_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurationsconfigurationname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurationsconfigurationname-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -727,7 +727,7 @@ paths:
       summary: Dsc Configuration Get
       description: Retrieve the configuration identified by configuration name.
       operationId: DscConfiguration_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurationsconfigurationname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurationsconfigurationname-get
       parameters:
       - in: path
         name: automationAccountName
@@ -747,7 +747,7 @@ paths:
       summary: Dsc Configuration Create Or Update
       description: Create the configuration identified by configuration name.
       operationId: DscConfiguration_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurationsconfigurationname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurationsconfigurationname-put
       parameters:
       - in: path
         name: automationAccountName
@@ -774,7 +774,7 @@ paths:
       summary: Dsc Configuration Get Content
       description: Retrieve the configuration script identified by configuration name.
       operationId: DscConfiguration_GetContent
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurationsconfigurationnamecontent-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurationsconfigurationnamecontent-get
       parameters:
       - in: path
         name: automationAccountName
@@ -797,7 +797,7 @@ paths:
       summary: Dsc Configuration List By Automation Account
       description: Retrieve a list of configurations.
       operationId: DscConfiguration_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurations-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurations-get
       parameters:
       - in: path
         name: automationAccountName
@@ -818,7 +818,7 @@ paths:
       summary: Agent Registration Information Get
       description: Retrieve the automation agent registration information.
       operationId: AgentRegistrationInformation_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameagentregistrationinformation-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameagentregistrationinformation-get
       parameters:
       - in: path
         name: automationAccountName
@@ -837,7 +837,7 @@ paths:
       summary: Agent Registration Information Regenerate Key
       description: Regenerate a primary or secondary agent registration key
       operationId: AgentRegistrationInformation_RegenerateKey
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameagentregistrationinformationregeneratekey-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameagentregistrationinformationregeneratekey-post
       parameters:
       - in: path
         name: automationAccountName
@@ -863,7 +863,7 @@ paths:
       summary: Dsc Node Delete
       description: Delete the dsc node identified by node id.
       operationId: DscNode_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeid-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeid-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -883,7 +883,7 @@ paths:
       summary: Dsc Node Get
       description: Retrieve the dsc node identified by node id.
       operationId: DscNode_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeid-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeid-get
       parameters:
       - in: path
         name: automationAccountName
@@ -903,7 +903,7 @@ paths:
       summary: Dsc Node Update
       description: Update the dsc node.
       operationId: DscNode_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeid-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeid-patch
       parameters:
       - in: path
         name: automationAccountName
@@ -929,7 +929,7 @@ paths:
       summary: Dsc Node List By Automation Account
       description: Retrieve a list of dsc nodes.
       operationId: DscNode_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodes-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodes-get
       parameters:
       - in: query
         name: $filter
@@ -953,7 +953,7 @@ paths:
       summary: Node Reports List By Node
       description: Retrieve the Dsc node report list by node id.
       operationId: NodeReports_ListByNode
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeidreports-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeidreports-get
       parameters:
       - in: query
         name: $filter
@@ -978,7 +978,7 @@ paths:
       summary: Node Reports Get
       description: Retrieve the Dsc node report data by node id and report id.
       operationId: NodeReports_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeidreportsreportid-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeidreportsreportid-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1002,7 +1002,7 @@ paths:
       summary: Node Reports Get Content
       description: Retrieve the Dsc node reports by node id and report id.
       operationId: NodeReports_GetContent
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeidreportsreportidcontent-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeidreportsreportidcontent-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1028,7 +1028,7 @@ paths:
       summary: Dsc Node Configuration Delete
       description: Delete the Dsc node configurations by node configuration.
       operationId: DscNodeConfiguration_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -1049,7 +1049,7 @@ paths:
       summary: Dsc Node Configuration Get
       description: Retrieve the Dsc node configurations by node configuration.
       operationId: DscNodeConfiguration_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1071,7 +1071,7 @@ paths:
       description: Create the node configuration identified by node configuration
         name.
       operationId: DscNodeConfiguration_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-put
       parameters:
       - in: path
         name: automationAccountName
@@ -1099,7 +1099,7 @@ paths:
       summary: Dsc Node Configuration List By Automation Account
       description: Retrieve a list of dsc node configurations.
       operationId: DscNodeConfiguration_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodeconfigurations-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodeconfigurations-get
       parameters:
       - in: query
         name: $filter
@@ -1124,7 +1124,7 @@ paths:
       summary: Hybrid Runbook Worker Group Delete
       description: Delete a hybrid runbook worker group.
       operationId: HybridRunbookWorkerGroup_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -1146,7 +1146,7 @@ paths:
       summary: Hybrid Runbook Worker Group Get
       description: Retrieve a hybrid runbook worker group.
       operationId: HybridRunbookWorkerGroup_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1168,7 +1168,7 @@ paths:
       summary: Hybrid Runbook Worker Group Update
       description: Update a hybrid runbook worker group.
       operationId: HybridRunbookWorkerGroup_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-patch
       parameters:
       - in: path
         name: automationAccountName
@@ -1196,7 +1196,7 @@ paths:
       summary: Hybrid Runbook Worker Group List By Automation Account
       description: Retrieve a list of hybrid runbook worker groups.
       operationId: HybridRunbookWorkerGroup_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamehybridrunbookworkergroups-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamehybridrunbookworkergroups-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1219,7 +1219,7 @@ paths:
       summary: Job Get Output
       description: Retrieve the job output identified by job id.
       operationId: Job_GetOutput
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidoutput-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidoutput-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1241,7 +1241,7 @@ paths:
       summary: Job Get Runbook Content
       description: Retrieve the runbook content of the job identified by job id.
       operationId: Job_GetRunbookContent
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidrunbookcontent-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidrunbookcontent-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1264,7 +1264,7 @@ paths:
       summary: Job Suspend
       description: Suspend the job identified by jobId.
       operationId: Job_Suspend
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidsuspend-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidsuspend-post
       parameters:
       - in: path
         name: automationAccountName
@@ -1285,7 +1285,7 @@ paths:
       summary: Job Stop
       description: Stop the job identified by jobId.
       operationId: Job_Stop
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidstop-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidstop-post
       parameters:
       - in: path
         name: automationAccountName
@@ -1306,7 +1306,7 @@ paths:
       summary: Job Get
       description: Retrieve the job identified by job id.
       operationId: Job_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobid-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobid-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1325,7 +1325,7 @@ paths:
       summary: Job Create
       description: Create a job of the runbook.
       operationId: Job_Create
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobid-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobid-put
       parameters:
       - in: path
         name: automationAccountName
@@ -1351,7 +1351,7 @@ paths:
       summary: Job List By Automation Account
       description: Retrieve a list of jobs.
       operationId: Job_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobs-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobs-get
       parameters:
       - in: query
         name: $filter
@@ -1374,7 +1374,7 @@ paths:
       summary: Job Resume
       description: Resume the job identified by jobId.
       operationId: Job_Resume
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidresume-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidresume-post
       parameters:
       - in: path
         name: automationAccountName
@@ -1395,7 +1395,7 @@ paths:
       summary: Job Stream Get
       description: Retrieve the job stream identified by job stream id.
       operationId: JobStream_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidstreamsjobstreamid-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidstreamsjobstreamid-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1419,7 +1419,7 @@ paths:
       summary: Job Stream List By Job
       description: Retrieve a list of jobs streams identified by job id.
       operationId: JobStream_ListByJob
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidstreams-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidstreams-get
       parameters:
       - in: query
         name: $filter
@@ -1444,7 +1444,7 @@ paths:
       summary: Job Schedule Delete
       description: Delete the job schedule identified by job schedule name.
       operationId: JobSchedule_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -1464,7 +1464,7 @@ paths:
       summary: Job Schedule Get
       description: Retrieve the job schedule identified by job schedule name.
       operationId: JobSchedule_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1484,7 +1484,7 @@ paths:
       summary: Job Schedule Create
       description: Create a job schedule.
       operationId: JobSchedule_Create
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-put
       parameters:
       - in: path
         name: automationAccountName
@@ -1511,7 +1511,7 @@ paths:
       summary: Job Schedule List By Automation Account
       description: Retrieve a list of job schedules.
       operationId: JobSchedule_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobschedules-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobschedules-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1533,7 +1533,7 @@ paths:
       description: Retrieve the activity in the module identified by module name and
         activity name.
       operationId: Activity_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulenameactivitiesactivityname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulenameactivitiesactivityname-get
       parameters:
       - in: path
         name: activityName
@@ -1557,7 +1557,7 @@ paths:
       description: Retrieve a list of activities in the module identified by module
         name.
       operationId: Activity_ListByModule
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulenameactivities-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulenameactivities-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1578,7 +1578,7 @@ paths:
       summary: Module Delete
       description: Delete the module by name.
       operationId: Module_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulename-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -1597,7 +1597,7 @@ paths:
       summary: Module Get
       description: Retrieve the module identified by module name.
       operationId: Module_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulename-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1616,7 +1616,7 @@ paths:
       summary: Module Create Or Update
       description: Create or Update the module identified by module name.
       operationId: Module_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulename-put
       parameters:
       - in: path
         name: automationAccountName
@@ -1641,7 +1641,7 @@ paths:
       summary: Module Update
       description: Update the module identified by module name.
       operationId: Module_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulename-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulename-patch
       parameters:
       - in: path
         name: automationAccountName
@@ -1666,7 +1666,7 @@ paths:
       summary: Module List By Automation Account
       description: Retrieve a list of modules.
       operationId: Module_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodules-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodules-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1687,7 +1687,7 @@ paths:
       description: Retrieve a list of fields of a given type identified by module
         name.
       operationId: ObjectDataTypes_ListFieldsByModuleAndType
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulenameobjectdatatypestypenamefields-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulenameobjectdatatypestypenamefields-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1715,7 +1715,7 @@ paths:
       description: Retrieve a list of fields of a given type across all accessible
         modules.
       operationId: ObjectDataTypes_ListFieldsByType
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameobjectdatatypestypenamefields-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameobjectdatatypestypenamefields-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1740,7 +1740,7 @@ paths:
       description: Retrieve a list of fields of a given type identified by module
         name.
       operationId: Fields_ListByType
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulenametypestypenamefields-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulenametypestypenamefields-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1764,7 +1764,7 @@ paths:
       summary: Runbook Draft Get Content
       description: Retrieve the content of runbook draft identified by runbook name.
       operationId: RunbookDraft_GetContent
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftcontent-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftcontent-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1786,7 +1786,7 @@ paths:
       summary: Runbook Draft Create Or Update
       description: Updates the runbook draft with runbookStream as its content.
       operationId: RunbookDraft_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftcontent-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftcontent-put
       parameters:
       - in: path
         name: automationAccountName
@@ -1795,7 +1795,7 @@ paths:
         name: No Name
       - in: body
         name: runbookContent
-        description: "The\_runbook\_draft\_content"
+        description: Therunbookdraftcontent
         schema:
           $ref: '#/definitions/holder'
       - in: path
@@ -1813,7 +1813,7 @@ paths:
       summary: Runbook Draft Get
       description: Retrieve the runbook draft identified by runbook name.
       operationId: RunbookDraft_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedraft-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraft-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1834,7 +1834,7 @@ paths:
       summary: Runbook Draft Publish
       description: Publish runbook draft.
       operationId: RunbookDraft_Publish
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftpublish-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftpublish-post
       parameters:
       - in: path
         name: automationAccountName
@@ -1856,7 +1856,7 @@ paths:
       summary: Runbook Draft Undo Edit
       description: Retrieve the runbook identified by runbook name.
       operationId: RunbookDraft_UndoEdit
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftundoedit-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftundoedit-post
       parameters:
       - in: path
         name: automationAccountName
@@ -1879,7 +1879,7 @@ paths:
       summary: Runbook Get Content
       description: Retrieve the content of runbook identified by runbook name.
       operationId: Runbook_GetContent
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamecontent-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamecontent-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1901,7 +1901,7 @@ paths:
       summary: Runbook Get
       description: Retrieve the runbook identified by runbook name.
       operationId: Runbook_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbookname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbookname-get
       parameters:
       - in: path
         name: automationAccountName
@@ -1920,7 +1920,7 @@ paths:
       summary: Runbook Create Or Update
       description: Create the runbook identified by runbook name.
       operationId: Runbook_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbookname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbookname-put
       parameters:
       - in: path
         name: automationAccountName
@@ -1945,7 +1945,7 @@ paths:
       summary: Runbook Update
       description: Update the runbook identified by runbook name.
       operationId: Runbook_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbookname-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbookname-patch
       parameters:
       - in: path
         name: automationAccountName
@@ -1969,7 +1969,7 @@ paths:
       summary: Runbook Delete
       description: Delete the runbook by name.
       operationId: Runbook_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbookname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbookname-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -1989,7 +1989,7 @@ paths:
       summary: Runbook List By Automation Account
       description: Retrieve a list of runbooks.
       operationId: Runbook_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooks-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooks-get
       parameters:
       - in: path
         name: automationAccountName
@@ -2010,7 +2010,7 @@ paths:
       description: Retrieve a test job streams identified by runbook name and stream
         id.
       operationId: TestJobStreams_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreamsjobstreamid-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreamsjobstreamid-get
       parameters:
       - in: path
         name: automationAccountName
@@ -2035,7 +2035,7 @@ paths:
       summary: Test Job Streams List By Test Job
       description: Retrieve a list of test job streams identified by runbook name.
       operationId: TestJobStreams_ListByTestJob
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreams-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreams-get
       parameters:
       - in: query
         name: $filter
@@ -2062,7 +2062,7 @@ paths:
       summary: Test Jobs Create
       description: Create a test job of the runbook.
       operationId: TestJobs_Create
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjob-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjob-put
       parameters:
       - in: path
         name: automationAccountName
@@ -2088,7 +2088,7 @@ paths:
       summary: Test Jobs Get
       description: Retrieve the test job for the specified runbook.
       operationId: TestJobs_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjob-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjob-get
       parameters:
       - in: path
         name: automationAccountName
@@ -2109,7 +2109,7 @@ paths:
       summary: Test Jobs Resume
       description: Resume the test job.
       operationId: TestJobs_Resume
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobresume-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobresume-post
       parameters:
       - in: path
         name: automationAccountName
@@ -2131,7 +2131,7 @@ paths:
       summary: Test Jobs Stop
       description: Stop the test job.
       operationId: TestJobs_Stop
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstop-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstop-post
       parameters:
       - in: path
         name: automationAccountName
@@ -2153,7 +2153,7 @@ paths:
       summary: Test Jobs Suspend
       description: Suspend the test job.
       operationId: TestJobs_Suspend
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobsuspend-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobsuspend-post
       parameters:
       - in: path
         name: automationAccountName
@@ -2175,7 +2175,7 @@ paths:
       summary: Schedule Create Or Update
       description: Create a schedule.
       operationId: Schedule_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameschedulesschedulename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameschedulesschedulename-put
       parameters:
       - in: path
         name: automationAccountName
@@ -2200,7 +2200,7 @@ paths:
       summary: Schedule Update
       description: Update the schedule identified by schedule name.
       operationId: Schedule_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameschedulesschedulename-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameschedulesschedulename-patch
       parameters:
       - in: path
         name: automationAccountName
@@ -2224,7 +2224,7 @@ paths:
       summary: Schedule Get
       description: Retrieve the schedule identified by schedule name.
       operationId: Schedule_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameschedulesschedulename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameschedulesschedulename-get
       parameters:
       - in: path
         name: automationAccountName
@@ -2243,7 +2243,7 @@ paths:
       summary: Schedule Delete
       description: Delete the schedule identified by schedule name.
       operationId: Schedule_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameschedulesschedulename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameschedulesschedulename-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -2263,7 +2263,7 @@ paths:
       summary: Schedule List By Automation Account
       description: Retrieve a list of schedules.
       operationId: Schedule_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameschedules-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameschedules-get
       parameters:
       - in: path
         name: automationAccountName
@@ -2283,7 +2283,7 @@ paths:
       summary: Variable Create Or Update
       description: Create a variable.
       operationId: Variable_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamevariablesvariablename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamevariablesvariablename-put
       parameters:
       - in: path
         name: automationAccountName
@@ -2308,7 +2308,7 @@ paths:
       summary: Variable Update
       description: Update a variable.
       operationId: Variable_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamevariablesvariablename-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamevariablesvariablename-patch
       parameters:
       - in: path
         name: automationAccountName
@@ -2332,7 +2332,7 @@ paths:
       summary: Variable Delete
       description: Delete the variable.
       operationId: Variable_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamevariablesvariablename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamevariablesvariablename-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -2351,7 +2351,7 @@ paths:
       summary: Variable Get
       description: Retrieve the variable identified by variable name.
       operationId: Variable_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamevariablesvariablename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamevariablesvariablename-get
       parameters:
       - in: path
         name: automationAccountName
@@ -2371,7 +2371,7 @@ paths:
       summary: Variable List By Automation Account
       description: Retrieve a list of variables.
       operationId: Variable_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamevariables-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamevariables-get
       parameters:
       - in: path
         name: automationAccountName
@@ -2391,7 +2391,7 @@ paths:
       summary: Webhook Generate Uri
       description: Generates a Uri for use in creating a webhook.
       operationId: Webhook_GenerateUri
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhooksgenerateuri-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhooksgenerateuri-post
       parameters:
       - in: path
         name: automationAccountName
@@ -2410,7 +2410,7 @@ paths:
       summary: Webhook Delete
       description: Delete the webhook by name.
       operationId: Webhook_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhookswebhookname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhookswebhookname-delete
       parameters:
       - in: path
         name: automationAccountName
@@ -2429,7 +2429,7 @@ paths:
       summary: Webhook Get
       description: Retrieve the webhook identified by webhook name.
       operationId: Webhook_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhookswebhookname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhookswebhookname-get
       parameters:
       - in: path
         name: automationAccountName
@@ -2448,7 +2448,7 @@ paths:
       summary: Webhook Create Or Update
       description: Create the webhook identified by webhook name.
       operationId: Webhook_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhookswebhookname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhookswebhookname-put
       parameters:
       - in: path
         name: automationAccountName
@@ -2473,7 +2473,7 @@ paths:
       summary: Webhook Update
       description: Update the webhook identified by webhook name.
       operationId: Webhook_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhookswebhookname-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhookswebhookname-patch
       parameters:
       - in: path
         name: automationAccountName
@@ -2498,7 +2498,7 @@ paths:
       summary: Webhook List By Automation Account
       description: Retrieve a list of webhooks.
       operationId: Webhook_ListByAutomationAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhooks-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhooks-get
       parameters:
       - in: query
         name: $filter

@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Automation
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/apis.md
 specificationVersion: "0.14"
 apis:
@@ -23,7 +23,7 @@ apis:
   tags: Automation, Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountname-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountname-patch-openapi.md
 - name: Azure Automation API Automation Account Create Or Update
   x-api-slug: azure-automation-api
   description: Create or update automation account.
@@ -33,7 +33,7 @@ apis:
   tags: Automation, Account, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountname-put-openapi.md
 - name: Azure Automation API Automation Account Delete
   x-api-slug: azure-automation-api
   description: Delete an automation account.
@@ -43,9 +43,9 @@ apis:
   tags: Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountname-delete-openapi.md
 - name: Azure Automation API Automation Account Get
   x-api-slug: azure-automation-api
   description: Get information about an Automation Account.
@@ -55,9 +55,9 @@ apis:
   tags: Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountname-get-openapi.md
 - name: Azure Automation API Automation Account List By Resource Group
   x-api-slug: azure-automation-api
   description: Retrieve a list of accounts within a given resource group.
@@ -67,9 +67,9 @@ apis:
   tags: Automation, Account, List, Resource, Group
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccounts-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccounts-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccounts-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccounts-get-openapi.md
 - name: Azure Automation API List Operations
   x-api-slug: azure-automation-api
   description: Lists all of the available Automation REST API operations.
@@ -79,9 +79,9 @@ apis:
   tags: List, Operations
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/providersmicrosoftautomationoperations-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/providersmicrosoft-automationoperations-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/providersmicrosoftautomationoperations-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/providersmicrosoft-automationoperations-get-openapi.md
 - name: Azure Automation API Lists the Automation Accounts
   x-api-slug: azure-automation-api
   description: Retrieve a list of accounts within a given subscription.
@@ -91,9 +91,9 @@ apis:
   tags: Lists, Automation, Accounts
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidprovidersmicrosoftautomationautomationaccounts-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidprovidersmicrosoft-automationautomationaccounts-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidprovidersmicrosoftautomationautomationaccounts-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidprovidersmicrosoft-automationautomationaccounts-get-openapi.md
 - name: Azure Automation API Statistics List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve the statistics for the account.
@@ -103,9 +103,9 @@ apis:
   tags: Statistics, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamestatistics-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamestatistics-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamestatistics-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamestatistics-get-openapi.md
 - name: Azure Automation API Usages List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve the usage for the account id.
@@ -115,9 +115,9 @@ apis:
   tags: Usages, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameusages-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameusages-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameusages-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameusages-get-openapi.md
 - name: Azure Automation API Certificate Delete
   x-api-slug: azure-automation-api
   description: Delete the certificate.
@@ -127,7 +127,7 @@ apis:
   tags: Certificate
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecertificatescertificatename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecertificatescertificatename-delete-openapi.md
 - name: Azure Automation API Certificate Get
   x-api-slug: azure-automation-api
   description: Retrieve the certificate identified by certificate name.
@@ -137,7 +137,7 @@ apis:
   tags: Certificate
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecertificatescertificatename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecertificatescertificatename-get-openapi.md
 - name: Azure Automation API Certificate Create Or Update
   x-api-slug: azure-automation-api
   description: Create a certificate.
@@ -147,7 +147,7 @@ apis:
   tags: Certificate, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecertificatescertificatename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecertificatescertificatename-put-openapi.md
 - name: Azure Automation API Certificate Update
   x-api-slug: azure-automation-api
   description: Update a certificate.
@@ -157,7 +157,7 @@ apis:
   tags: Certificate
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecertificatescertificatename-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecertificatescertificatename-patch-openapi.md
 - name: Azure Automation API Certificate List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of certificates.
@@ -167,9 +167,9 @@ apis:
   tags: Certificate, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecertificates-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecertificates-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecertificates-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecertificates-get-openapi.md
 - name: Azure Automation API Connection Delete
   x-api-slug: azure-automation-api
   description: Delete the connection.
@@ -179,7 +179,7 @@ apis:
   tags: Connection
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectionsconnectionname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectionsconnectionname-delete-openapi.md
 - name: Azure Automation API Connection Get
   x-api-slug: azure-automation-api
   description: Retrieve the connection identified by connection name.
@@ -189,7 +189,7 @@ apis:
   tags: Connection
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectionsconnectionname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectionsconnectionname-get-openapi.md
 - name: Azure Automation API Connection Create Or Update
   x-api-slug: azure-automation-api
   description: Create or update a connection.
@@ -199,7 +199,7 @@ apis:
   tags: Connection, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectionsconnectionname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectionsconnectionname-put-openapi.md
 - name: Azure Automation API Connection Update
   x-api-slug: azure-automation-api
   description: Update a connection.
@@ -209,7 +209,7 @@ apis:
   tags: Connection
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectionsconnectionname-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectionsconnectionname-patch-openapi.md
 - name: Azure Automation API Connection List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of connections.
@@ -219,9 +219,9 @@ apis:
   tags: Connection, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnections-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnections-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnections-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnections-get-openapi.md
 - name: Azure Automation API Connection Type Delete
   x-api-slug: azure-automation-api
   description: Delete the connectiontype.
@@ -231,7 +231,7 @@ apis:
   tags: Connection, Type
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-delete-openapi.md
 - name: Azure Automation API Connection Type Get
   x-api-slug: azure-automation-api
   description: Retrieve the connectiontype identified by connectiontype name.
@@ -241,7 +241,7 @@ apis:
   tags: Connection, Type
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-get-openapi.md
 - name: Azure Automation API Connection Type Create Or Update
   x-api-slug: azure-automation-api
   description: Create a connectiontype.
@@ -251,7 +251,7 @@ apis:
   tags: Connection, Type, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectiontypesconnectiontypename-put-openapi.md
 - name: Azure Automation API Connection Type List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of connectiontypes.
@@ -261,9 +261,9 @@ apis:
   tags: Connection, Type, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectiontypes-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectiontypes-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconnectiontypes-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconnectiontypes-get-openapi.md
 - name: Azure Automation API Credential Delete
   x-api-slug: azure-automation-api
   description: Delete the credential.
@@ -273,7 +273,7 @@ apis:
   tags: Credential
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecredentialscredentialname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecredentialscredentialname-delete-openapi.md
 - name: Azure Automation API Credential Get
   x-api-slug: azure-automation-api
   description: Retrieve the credential identified by credential name.
@@ -283,7 +283,7 @@ apis:
   tags: Credential
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecredentialscredentialname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecredentialscredentialname-get-openapi.md
 - name: Azure Automation API Credential Create Or Update
   x-api-slug: azure-automation-api
   description: Create a credential.
@@ -293,7 +293,7 @@ apis:
   tags: Credential, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecredentialscredentialname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecredentialscredentialname-put-openapi.md
 - name: Azure Automation API Credential Update
   x-api-slug: azure-automation-api
   description: Update a credential.
@@ -303,7 +303,7 @@ apis:
   tags: Credential
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecredentialscredentialname-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecredentialscredentialname-patch-openapi.md
 - name: Azure Automation API Credential List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of credentials.
@@ -313,9 +313,9 @@ apis:
   tags: Credential, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecredentials-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecredentials-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecredentials-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecredentials-get-openapi.md
 - name: Azure Automation API Dsc Compilation Job Create
   x-api-slug: azure-automation-api
   description: Creates the Dsc compilation job of the configuration.
@@ -325,7 +325,7 @@ apis:
   tags: Dsc, Compilation, Job, Create
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecompilationjobscompilationjobid-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecompilationjobscompilationjobid-put-openapi.md
 - name: Azure Automation API Dsc Compilation Job Get
   x-api-slug: azure-automation-api
   description: Retrieve the Dsc configuration compilation job identified by job id.
@@ -335,7 +335,7 @@ apis:
   tags: Dsc, Compilation, Job
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecompilationjobscompilationjobid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecompilationjobscompilationjobid-get-openapi.md
 - name: Azure Automation API Dsc Compilation Job List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of dsc compilation jobs.
@@ -345,9 +345,9 @@ apis:
   tags: Dsc, Compilation, Job, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecompilationjobs-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecompilationjobs-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecompilationjobs-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecompilationjobs-get-openapi.md
 - name: Azure Automation API Dsc Compilation Job Get Stream
   x-api-slug: azure-automation-api
   description: Retrieve the job stream identified by job stream id.
@@ -357,7 +357,7 @@ apis:
   tags: Dsc, Compilation, Job, , Stream
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamecompilationjobsjobidstreamsjobstreamid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamecompilationjobsjobidstreamsjobstreamid-get-openapi.md
 - name: Azure Automation API Dsc Configuration Delete
   x-api-slug: azure-automation-api
   description: Delete the dsc configuration identified by configuration name.
@@ -367,7 +367,7 @@ apis:
   tags: Dsc, Configuration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurationsconfigurationname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurationsconfigurationname-delete-openapi.md
 - name: Azure Automation API Dsc Configuration Get
   x-api-slug: azure-automation-api
   description: Retrieve the configuration identified by configuration name.
@@ -377,7 +377,7 @@ apis:
   tags: Dsc, Configuration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurationsconfigurationname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurationsconfigurationname-get-openapi.md
 - name: Azure Automation API Dsc Configuration Create Or Update
   x-api-slug: azure-automation-api
   description: Create the configuration identified by configuration name.
@@ -387,7 +387,7 @@ apis:
   tags: Dsc, Configuration, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurationsconfigurationname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurationsconfigurationname-put-openapi.md
 - name: Azure Automation API Dsc Configuration Get Content
   x-api-slug: azure-automation-api
   description: Retrieve the configuration script identified by configuration name.
@@ -397,9 +397,9 @@ apis:
   tags: Dsc, Configuration, , Content
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurationsconfigurationnamecontent-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurationsconfigurationnamecontent-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurationsconfigurationnamecontent-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurationsconfigurationnamecontent-get-openapi.md
 - name: Azure Automation API Dsc Configuration List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of configurations.
@@ -409,9 +409,9 @@ apis:
   tags: Dsc, Configuration, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurations-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurations-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameconfigurations-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameconfigurations-get-openapi.md
 - name: Azure Automation API Agent Registration Information Get
   x-api-slug: azure-automation-api
   description: Retrieve the automation agent registration information.
@@ -421,7 +421,7 @@ apis:
   tags: Agent, Registration, Information
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameagentregistrationinformation-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameagentregistrationinformation-get-openapi.md
 - name: Azure Automation API Agent Registration Information Regenerate Key
   x-api-slug: azure-automation-api
   description: Regenerate a primary or secondary agent registration key
@@ -431,7 +431,7 @@ apis:
   tags: Agent, Registration, Information, Regenerate, Key
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameagentregistrationinformationregeneratekey-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameagentregistrationinformationregeneratekey-post-openapi.md
 - name: Azure Automation API Dsc Node Delete
   x-api-slug: azure-automation-api
   description: Delete the dsc node identified by node id.
@@ -441,7 +441,7 @@ apis:
   tags: Dsc, Node
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeid-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeid-delete-openapi.md
 - name: Azure Automation API Dsc Node Get
   x-api-slug: azure-automation-api
   description: Retrieve the dsc node identified by node id.
@@ -451,7 +451,7 @@ apis:
   tags: Dsc, Node
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeid-get-openapi.md
 - name: Azure Automation API Dsc Node Update
   x-api-slug: azure-automation-api
   description: Update the dsc node.
@@ -461,7 +461,7 @@ apis:
   tags: Dsc, Node
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeid-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeid-patch-openapi.md
 - name: Azure Automation API Dsc Node List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of dsc nodes.
@@ -471,9 +471,9 @@ apis:
   tags: Dsc, Node, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodes-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodes-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodes-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodes-get-openapi.md
 - name: Azure Automation API Node Reports List By Node
   x-api-slug: azure-automation-api
   description: Retrieve the Dsc node report list by node id.
@@ -483,9 +483,9 @@ apis:
   tags: Node, Reports, ListNode
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeidreports-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeidreports-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeidreports-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeidreports-get-openapi.md
 - name: Azure Automation API Node Reports Get
   x-api-slug: azure-automation-api
   description: Retrieve the Dsc node report data by node id and report id.
@@ -495,9 +495,9 @@ apis:
   tags: Node, Reports
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeidreportsreportid-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeidreportsreportid-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeidreportsreportid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeidreportsreportid-get-openapi.md
 - name: Azure Automation API Node Reports Get Content
   x-api-slug: azure-automation-api
   description: Retrieve the Dsc node reports by node id and report id.
@@ -507,9 +507,9 @@ apis:
   tags: Node, Reports, , Content
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeidreportsreportidcontent-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeidreportsreportidcontent-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodesnodeidreportsreportidcontent-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodesnodeidreportsreportidcontent-get-openapi.md
 - name: Azure Automation API Dsc Node Configuration Delete
   x-api-slug: azure-automation-api
   description: Delete the Dsc node configurations by node configuration.
@@ -519,7 +519,7 @@ apis:
   tags: Dsc, Node, Configuration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-delete-openapi.md
 - name: Azure Automation API Dsc Node Configuration Get
   x-api-slug: azure-automation-api
   description: Retrieve the Dsc node configurations by node configuration.
@@ -529,7 +529,7 @@ apis:
   tags: Dsc, Node, Configuration
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-get-openapi.md
 - name: Azure Automation API Dsc Node Configuration Create Or Update
   x-api-slug: azure-automation-api
   description: Create the node configuration identified by node configuration name.
@@ -539,7 +539,7 @@ apis:
   tags: Dsc, Node, Configuration, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodeconfigurationsnodeconfigurationname-put-openapi.md
 - name: Azure Automation API Dsc Node Configuration List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of dsc node configurations.
@@ -549,9 +549,9 @@ apis:
   tags: Dsc, Node, Configuration, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodeconfigurations-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodeconfigurations-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamenodeconfigurations-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamenodeconfigurations-get-openapi.md
 - name: Azure Automation API Hybrid Runbook Worker Group Delete
   x-api-slug: azure-automation-api
   description: Delete a hybrid runbook worker group.
@@ -561,7 +561,7 @@ apis:
   tags: Hybrid, Runbook, Worker, Group
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-delete-openapi.md
 - name: Azure Automation API Hybrid Runbook Worker Group Get
   x-api-slug: azure-automation-api
   description: Retrieve a hybrid runbook worker group.
@@ -571,7 +571,7 @@ apis:
   tags: Hybrid, Runbook, Worker, Group
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-get-openapi.md
 - name: Azure Automation API Hybrid Runbook Worker Group Update
   x-api-slug: azure-automation-api
   description: Update a hybrid runbook worker group.
@@ -581,7 +581,7 @@ apis:
   tags: Hybrid, Runbook, Worker, Group
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamehybridrunbookworkergroupshybridrunbookworkergroupname-patch-openapi.md
 - name: Azure Automation API Hybrid Runbook Worker Group List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of hybrid runbook worker groups.
@@ -591,9 +591,9 @@ apis:
   tags: Hybrid, Runbook, Worker, Group, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamehybridrunbookworkergroups-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamehybridrunbookworkergroups-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamehybridrunbookworkergroups-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamehybridrunbookworkergroups-get-openapi.md
 - name: Azure Automation API Job Get Output
   x-api-slug: azure-automation-api
   description: Retrieve the job output identified by job id.
@@ -603,7 +603,7 @@ apis:
   tags: Job, , Output
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidoutput-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidoutput-get-openapi.md
 - name: Azure Automation API Job Get Runbook Content
   x-api-slug: azure-automation-api
   description: Retrieve the runbook content of the job identified by job id.
@@ -613,7 +613,7 @@ apis:
   tags: Job, , Runbook, Content
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidrunbookcontent-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidrunbookcontent-get-openapi.md
 - name: Azure Automation API Job Suspend
   x-api-slug: azure-automation-api
   description: Suspend the job identified by jobId.
@@ -623,7 +623,7 @@ apis:
   tags: Job, Suspend
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidsuspend-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidsuspend-post-openapi.md
 - name: Azure Automation API Job Stop
   x-api-slug: azure-automation-api
   description: Stop the job identified by jobId.
@@ -633,7 +633,7 @@ apis:
   tags: Job, Stop
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidstop-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidstop-post-openapi.md
 - name: Azure Automation API Job Get
   x-api-slug: azure-automation-api
   description: Retrieve the job identified by job id.
@@ -643,7 +643,7 @@ apis:
   tags: Job
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobid-get-openapi.md
 - name: Azure Automation API Job Create
   x-api-slug: azure-automation-api
   description: Create a job of the runbook.
@@ -653,7 +653,7 @@ apis:
   tags: Job, Create
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobid-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobid-put-openapi.md
 - name: Azure Automation API Job List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of jobs.
@@ -663,9 +663,9 @@ apis:
   tags: Job, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobs-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobs-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobs-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobs-get-openapi.md
 - name: Azure Automation API Job Resume
   x-api-slug: azure-automation-api
   description: Resume the job identified by jobId.
@@ -675,7 +675,7 @@ apis:
   tags: Job, Resume
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidresume-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidresume-post-openapi.md
 - name: Azure Automation API Job Stream Get
   x-api-slug: azure-automation-api
   description: Retrieve the job stream identified by job stream id.
@@ -685,7 +685,7 @@ apis:
   tags: Job, Stream
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidstreamsjobstreamid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidstreamsjobstreamid-get-openapi.md
 - name: Azure Automation API Job Stream List By Job
   x-api-slug: azure-automation-api
   description: Retrieve a list of jobs streams identified by job id.
@@ -695,7 +695,7 @@ apis:
   tags: Job, Stream, ListJob
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobsjobidstreams-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobsjobidstreams-get-openapi.md
 - name: Azure Automation API Job Schedule Delete
   x-api-slug: azure-automation-api
   description: Delete the job schedule identified by job schedule name.
@@ -705,7 +705,7 @@ apis:
   tags: Job, Schedule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-delete-openapi.md
 - name: Azure Automation API Job Schedule Get
   x-api-slug: azure-automation-api
   description: Retrieve the job schedule identified by job schedule name.
@@ -715,7 +715,7 @@ apis:
   tags: Job, Schedule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-get-openapi.md
 - name: Azure Automation API Job Schedule Create
   x-api-slug: azure-automation-api
   description: Create a job schedule.
@@ -725,7 +725,7 @@ apis:
   tags: Job, Schedule, Create
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobschedulesjobscheduleid-put-openapi.md
 - name: Azure Automation API Job Schedule List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of job schedules.
@@ -735,9 +735,9 @@ apis:
   tags: Job, Schedule, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobschedules-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobschedules-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamejobschedules-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamejobschedules-get-openapi.md
 - name: Azure Automation API Activity Get
   x-api-slug: azure-automation-api
   description: Retrieve the activity in the module identified by module name and activity
@@ -748,7 +748,7 @@ apis:
   tags: Activity
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulenameactivitiesactivityname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulenameactivitiesactivityname-get-openapi.md
 - name: Azure Automation API Activity List By Module
   x-api-slug: azure-automation-api
   description: Retrieve a list of activities in the module identified by module name.
@@ -758,7 +758,7 @@ apis:
   tags: Activity, ListModule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulenameactivities-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulenameactivities-get-openapi.md
 - name: Azure Automation API Module Delete
   x-api-slug: azure-automation-api
   description: Delete the module by name.
@@ -768,7 +768,7 @@ apis:
   tags: Module
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulename-delete-openapi.md
 - name: Azure Automation API Module Get
   x-api-slug: azure-automation-api
   description: Retrieve the module identified by module name.
@@ -778,7 +778,7 @@ apis:
   tags: Module
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulename-get-openapi.md
 - name: Azure Automation API Module Create Or Update
   x-api-slug: azure-automation-api
   description: Create or Update the module identified by module name.
@@ -788,7 +788,7 @@ apis:
   tags: Module, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulename-put-openapi.md
 - name: Azure Automation API Module Update
   x-api-slug: azure-automation-api
   description: Update the module identified by module name.
@@ -798,7 +798,7 @@ apis:
   tags: Module
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulename-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulename-patch-openapi.md
 - name: Azure Automation API Module List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of modules.
@@ -808,9 +808,9 @@ apis:
   tags: Module, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodules-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodules-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodules-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodules-get-openapi.md
 - name: Azure Automation API Object Data Types List Fields By Module And Type
   x-api-slug: azure-automation-api
   description: Retrieve a list of fields of a given type identified by module name.
@@ -820,9 +820,9 @@ apis:
   tags: Object, Data, Types, List, FieldsModuleType
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulenameobjectdatatypestypenamefields-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulenameobjectdatatypestypenamefields-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulenameobjectdatatypestypenamefields-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulenameobjectdatatypestypenamefields-get-openapi.md
 - name: Azure Automation API Object Data Types List Fields By Type
   x-api-slug: azure-automation-api
   description: Retrieve a list of fields of a given type across all accessible modules.
@@ -832,9 +832,9 @@ apis:
   tags: Object, Data, Types, List, FieldsType
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameobjectdatatypestypenamefields-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameobjectdatatypestypenamefields-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameobjectdatatypestypenamefields-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameobjectdatatypestypenamefields-get-openapi.md
 - name: Azure Automation API Fields List By Type
   x-api-slug: azure-automation-api
   description: Retrieve a list of fields of a given type identified by module name.
@@ -844,9 +844,9 @@ apis:
   tags: Fields, ListType
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulenametypestypenamefields-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulenametypestypenamefields-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamemodulesmodulenametypestypenamefields-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamemodulesmodulenametypestypenamefields-get-openapi.md
 - name: Azure Automation API Runbook Draft Get Content
   x-api-slug: azure-automation-api
   description: Retrieve the content of runbook draft identified by runbook name.
@@ -856,9 +856,9 @@ apis:
   tags: Runbook, Draft, , Content
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftcontent-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftcontent-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftcontent-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftcontent-get-openapi.md
 - name: Azure Automation API Runbook Draft Create Or Update
   x-api-slug: azure-automation-api
   description: Updates the runbook draft with runbookStream as its content.
@@ -868,7 +868,7 @@ apis:
   tags: Runbook, Draft, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftcontent-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftcontent-put-openapi.md
 - name: Azure Automation API Runbook Draft Get
   x-api-slug: azure-automation-api
   description: Retrieve the runbook draft identified by runbook name.
@@ -878,7 +878,7 @@ apis:
   tags: Runbook, Draft
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedraft-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraft-get-openapi.md
 - name: Azure Automation API Runbook Draft Publish
   x-api-slug: azure-automation-api
   description: Publish runbook draft.
@@ -888,7 +888,7 @@ apis:
   tags: Runbook, Draft, Publish
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftpublish-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftpublish-post-openapi.md
 - name: Azure Automation API Runbook Draft Undo Edit
   x-api-slug: azure-automation-api
   description: Retrieve the runbook identified by runbook name.
@@ -898,7 +898,7 @@ apis:
   tags: Runbook, Draft, Undo, Edit
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftundoedit-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedraftundoedit-post-openapi.md
 - name: Azure Automation API Runbook Get Content
   x-api-slug: azure-automation-api
   description: Retrieve the content of runbook identified by runbook name.
@@ -908,9 +908,9 @@ apis:
   tags: Runbook, , Content
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamecontent-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamecontent-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamecontent-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamecontent-get-openapi.md
 - name: Azure Automation API Runbook Get
   x-api-slug: azure-automation-api
   description: Retrieve the runbook identified by runbook name.
@@ -920,7 +920,7 @@ apis:
   tags: Runbook
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbookname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbookname-get-openapi.md
 - name: Azure Automation API Runbook Create Or Update
   x-api-slug: azure-automation-api
   description: Create the runbook identified by runbook name.
@@ -930,7 +930,7 @@ apis:
   tags: Runbook, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbookname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbookname-put-openapi.md
 - name: Azure Automation API Runbook Update
   x-api-slug: azure-automation-api
   description: Update the runbook identified by runbook name.
@@ -940,7 +940,7 @@ apis:
   tags: Runbook
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbookname-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbookname-patch-openapi.md
 - name: Azure Automation API Runbook Delete
   x-api-slug: azure-automation-api
   description: Delete the runbook by name.
@@ -950,7 +950,7 @@ apis:
   tags: Runbook
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbookname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbookname-delete-openapi.md
 - name: Azure Automation API Runbook List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of runbooks.
@@ -960,9 +960,9 @@ apis:
   tags: Runbook, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooks-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooks-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooks-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooks-get-openapi.md
 - name: Azure Automation API Test Job Streams Get
   x-api-slug: azure-automation-api
   description: Retrieve a test job streams identified by runbook name and stream id.
@@ -972,9 +972,9 @@ apis:
   tags: Test, Job, Streams
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreamsjobstreamid-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreamsjobstreamid-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreamsjobstreamid-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreamsjobstreamid-get-openapi.md
 - name: Azure Automation API Test Job Streams List By Test Job
   x-api-slug: azure-automation-api
   description: Retrieve a list of test job streams identified by runbook name.
@@ -984,9 +984,9 @@ apis:
   tags: Test, Job, Streams, ListTest, Job
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreams-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreams-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreams-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstreams-get-openapi.md
 - name: Azure Automation API Test Jobs Create
   x-api-slug: azure-automation-api
   description: Create a test job of the runbook.
@@ -996,7 +996,7 @@ apis:
   tags: Test, Jobs, Create
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjob-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjob-put-openapi.md
 - name: Azure Automation API Test Jobs Get
   x-api-slug: azure-automation-api
   description: Retrieve the test job for the specified runbook.
@@ -1006,9 +1006,9 @@ apis:
   tags: Test, Jobs
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjob-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjob-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjob-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjob-get-openapi.md
 - name: Azure Automation API Test Jobs Resume
   x-api-slug: azure-automation-api
   description: Resume the test job.
@@ -1018,9 +1018,9 @@ apis:
   tags: Test, Jobs, Resume
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobresume-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobresume-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobresume-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobresume-post-openapi.md
 - name: Azure Automation API Test Jobs Stop
   x-api-slug: azure-automation-api
   description: Stop the test job.
@@ -1030,9 +1030,9 @@ apis:
   tags: Test, Jobs, Stop
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstop-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstop-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstop-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobstop-post-openapi.md
 - name: Azure Automation API Test Jobs Suspend
   x-api-slug: azure-automation-api
   description: Suspend the test job.
@@ -1042,9 +1042,9 @@ apis:
   tags: Test, Jobs, Suspend
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobsuspend-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobsuspend-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobsuspend-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamerunbooksrunbooknamedrafttestjobsuspend-post-openapi.md
 - name: Azure Automation API Schedule Create Or Update
   x-api-slug: azure-automation-api
   description: Create a schedule.
@@ -1054,7 +1054,7 @@ apis:
   tags: Schedule, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameschedulesschedulename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameschedulesschedulename-put-openapi.md
 - name: Azure Automation API Schedule Update
   x-api-slug: azure-automation-api
   description: Update the schedule identified by schedule name.
@@ -1064,7 +1064,7 @@ apis:
   tags: Schedule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameschedulesschedulename-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameschedulesschedulename-patch-openapi.md
 - name: Azure Automation API Schedule Get
   x-api-slug: azure-automation-api
   description: Retrieve the schedule identified by schedule name.
@@ -1074,7 +1074,7 @@ apis:
   tags: Schedule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameschedulesschedulename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameschedulesschedulename-get-openapi.md
 - name: Azure Automation API Schedule Delete
   x-api-slug: azure-automation-api
   description: Delete the schedule identified by schedule name.
@@ -1084,7 +1084,7 @@ apis:
   tags: Schedule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameschedulesschedulename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameschedulesschedulename-delete-openapi.md
 - name: Azure Automation API Schedule List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of schedules.
@@ -1094,9 +1094,9 @@ apis:
   tags: Schedule, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameschedules-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameschedules-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnameschedules-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnameschedules-get-openapi.md
 - name: Azure Automation API Variable Create Or Update
   x-api-slug: azure-automation-api
   description: Create a variable.
@@ -1106,7 +1106,7 @@ apis:
   tags: Variable, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamevariablesvariablename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamevariablesvariablename-put-openapi.md
 - name: Azure Automation API Variable Update
   x-api-slug: azure-automation-api
   description: Update a variable.
@@ -1116,7 +1116,7 @@ apis:
   tags: Variable
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamevariablesvariablename-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamevariablesvariablename-patch-openapi.md
 - name: Azure Automation API Variable Delete
   x-api-slug: azure-automation-api
   description: Delete the variable.
@@ -1126,7 +1126,7 @@ apis:
   tags: Variable
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamevariablesvariablename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamevariablesvariablename-delete-openapi.md
 - name: Azure Automation API Variable Get
   x-api-slug: azure-automation-api
   description: Retrieve the variable identified by variable name.
@@ -1136,7 +1136,7 @@ apis:
   tags: Variable
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamevariablesvariablename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamevariablesvariablename-get-openapi.md
 - name: Azure Automation API Variable List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of variables.
@@ -1146,9 +1146,9 @@ apis:
   tags: Variable, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamevariables-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamevariables-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamevariables-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamevariables-get-openapi.md
 - name: Azure Automation API Webhook Generate Uri
   x-api-slug: azure-automation-api
   description: Generates a Uri for use in creating a webhook.
@@ -1158,9 +1158,9 @@ apis:
   tags: Webhook, Generate, Uri
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhooksgenerateuri-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhooksgenerateuri-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhooksgenerateuri-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhooksgenerateuri-post-openapi.md
 - name: Azure Automation API Webhook Delete
   x-api-slug: azure-automation-api
   description: Delete the webhook by name.
@@ -1170,7 +1170,7 @@ apis:
   tags: Webhook
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhookswebhookname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhookswebhookname-delete-openapi.md
 - name: Azure Automation API Webhook Get
   x-api-slug: azure-automation-api
   description: Retrieve the webhook identified by webhook name.
@@ -1180,7 +1180,7 @@ apis:
   tags: Webhook
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhookswebhookname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhookswebhookname-get-openapi.md
 - name: Azure Automation API Webhook Create Or Update
   x-api-slug: azure-automation-api
   description: Create the webhook identified by webhook name.
@@ -1190,7 +1190,7 @@ apis:
   tags: Webhook, Or
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhookswebhookname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhookswebhookname-put-openapi.md
 - name: Azure Automation API Webhook Update
   x-api-slug: azure-automation-api
   description: Update the webhook identified by webhook name.
@@ -1200,7 +1200,7 @@ apis:
   tags: Webhook
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhookswebhookname-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhookswebhookname-patch-openapi.md
 - name: Azure Automation API Webhook List By Automation Account
   x-api-slug: azure-automation-api
   description: Retrieve a list of webhooks.
@@ -1210,9 +1210,9 @@ apis:
   tags: Webhook, List, Automation, Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhooks-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhooks-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftautomationautomationaccountsautomationaccountnamewebhooks-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-automation/master/_listings/azure-automation/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-automationautomationaccountsautomationaccountnamewebhooks-get-openapi.md
 - name: Azure Automation API
   x-api-slug: azure-automation-api
   description: Automate all of those frequent, time-consuming, and error-prone cloud
